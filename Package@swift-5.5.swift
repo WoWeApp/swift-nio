@@ -139,7 +139,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/apple/swift-atomics.git", from: "1.0.2"),
-        .package(url: "https://github.com/apple/swift-collections.git", from: "1.0.1"),
+        .package(url: "https://github.com/apple/swift-collections.git", from: "1.0.4"),
     ],
     targets: targets
 )
